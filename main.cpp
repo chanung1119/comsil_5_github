@@ -14,6 +14,7 @@ int main(){
 		LinkedList<int> *p;
 		bool flag = false;
 
+		cout << "This is branch1" << endl;
 		cout<<"자료구조 선택(1: Stack, Other: Linked List): ";
 		cin>>mode;
 						    
